@@ -1,4 +1,4 @@
-![logo](https://github.com/krisnalavendrairawan/Krisna-Lavendra-Irawan/blob/main/github-header-image.png)
+![logo](https://github.com/krisnalavendrairawan/krisnalavendrairawan/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Krisna Lavendra Irawan</h1>
 <h3 align="center">I wan't to be Web Developer</h3>
 
