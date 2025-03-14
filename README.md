@@ -1,6 +1,5 @@
 ![logo](https://github.com/krisnalavendrairawan/krisnalavendrairawan/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Krisna Lavendra Irawan</h1>
-<h3 align="center">I wan't to be Web Developer</h3>
 
 <img align="right" alt="animegif" width="400" src="https://i.pinimg.com/originals/6a/3e/8c/6a3e8c428fe78ee4469638f38a7886ad.gif">
 
